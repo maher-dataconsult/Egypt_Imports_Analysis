@@ -1,0 +1,39 @@
+﻿pid,product,sid,manu_id
+101,Crude oil,100,20
+102,Oil products,100,10
+103,Bunker and jet fuel,100,10
+104,Natural gas,100,10
+201,Meat and preparations thereof,200,60
+202,Fish and preparations thereof,200,60
+203,Dairy products and eggs,200,60
+204,Fruits,200,60
+205,Tea,200,60
+206,"Animal and vegetable fats, greases & oils and products",200,30
+207,Raw sugar and its products,200,60
+208,Tobacco,200,20
+301,Wheat,300,20
+302,Maize,300,20
+303,Rice,300,60
+304,"Oil seeds & oleaginous fruits, and plants for manufacturing",300,30
+401,Cotton,400,20
+402,Cotton yarn,400,30
+403,Cotton textiles,400,60
+404,Ready-made clothes,400,60
+405,Synthetic fibers,400,30
+406,Carpets and other floor coverings,400,50
+501,"Organic & inorganic chemicals, and carbon",500,30
+502,Pharmaceuticals,500,60
+503,Fertilizers,500,30
+601,"Motors, generators, transformers & parts thereof",600,40
+602,Household electric-motor appliances,600,50
+603,Air conditioners,600,50
+604,Household refrigerators & electric freezers,600,50
+605,TV & sending & receiving equipment for telephones & radios,600,50
+606,Computer hardware and software,600,40
+701,"Iron ore, steel & articles thereof",700,20
+702,Aluminum ore and its articles,700,20
+703,Copper ore and its articles,700,20
+801,Cranes and bulldozers and parts thereof,800,40
+802,Cars and vehicles for transport of passengers & goods ,800,40
+803,"Car accessories, batteries and spare parts",800,50
+901,Others,900,70
