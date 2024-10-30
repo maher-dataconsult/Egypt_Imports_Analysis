@@ -1,2 +1,4 @@
-# Egypt_Imports_Analysis
-Egypt Imports Analysis across all Sectors from 2005 to 2023
+# Egypt Imports Analysis from 2005 : 2023
+
+![Visualization 1](Presentation_Cover.jpg)
+
