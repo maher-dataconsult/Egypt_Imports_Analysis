@@ -22,8 +22,6 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
 | **2022 Declines**               | Vehicles (-$2.68B), Base Metals (-$1.89B), Chemicals (-$1.81B)                |  
 | **Oil Predictions**             | 2023: $11.62B ▼<br>2024: $12.41B ▲<br>2025: $10.87B ▼                         |  
 
----
-
 ## **Data Overview**  
 ### **Sources & Scope**  
 - **Data Source**: Central Bank of Egypt (2005–2022 trade data).  
@@ -34,8 +32,6 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
 - Merged and cleaned two Excel datasets.  
 - Normalized tables for geographical regions and manufacturing stages.  
 - Handled missing values and standardized formats.  
-
----
 
 ## **Exploratory Analysis**  
 ### **Key Insights**  
@@ -48,8 +44,6 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
    - Oil merchandise peaked at $12.49B (2017).  
    - Raw materials accounted for **20–24%** of total imports.  
 
----
-
 ## **Results**  
 ### **Sectoral Trends**  
 - **Oil Dependency**: Dominated imports but projected to decline by 2025.  
@@ -58,8 +52,6 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
 
 ### **Predictive Insights**  
 - **Oil Forecast**: Volatility-driven decline predicted using machine learning models.  
-
----
 
 ## **Discussion**  
 ### **Strengths & Weaknesses**  
@@ -70,8 +62,6 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
 ### **Limitations**  
 - Short data span (18 years) affected long-term forecasting accuracy.  
 - External factors (e.g., geopolitical shifts) were not modeled.  
-
----
 
 ## **Recommendations**  
 ### **Strategic Actions**  
@@ -94,8 +84,6 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
     - Attract FDI via tax incentives & infrastructure.  
     - Build industrial clusters for collaboration.  
     - Invest in vocational training for modern industries. 
-
----
 
 ## **Conclusion**  
 Egypt’s import trends highlight vulnerabilities in oil dependency but opportunities in sustainable development. Strategic investments in energy diversification, agriculture, and industrial efficiency can strengthen economic resilience.  
