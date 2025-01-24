@@ -100,5 +100,7 @@ This report analyzes Egypt’s import data (2005–2023) from the Central Bank o
 ## **Conclusion**  
 Egypt’s import trends highlight vulnerabilities in oil dependency but opportunities in sustainable development. Strategic investments in energy diversification, agriculture, and industrial efficiency can strengthen economic resilience.  
 
+---
+
 ## **Thank you!**  
 
